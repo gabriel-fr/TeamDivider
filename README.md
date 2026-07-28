@@ -7,6 +7,17 @@ O objetivo é tornar o sorteio mais justo, evitando que um time concentre apenas
 
 ---
 
+
+## ▶️ Acessando o projeto
+
+https://team-divider.vercel.app/
+
+<img width="1287" height="573" alt="image" src="https://github.com/user-attachments/assets/b4a52a15-1137-4129-9045-239574f73fba" />
+
+
+---
+
+
 ## 🚀 Tecnologias
 
 - React
@@ -226,12 +237,6 @@ Em poucos segundos é possível cadastrar toda a lista, importar participantes d
 - Restrição de jogadores que desejam atuar juntos ou separados.
 - Persistência dos jogadores em banco de dados.
 - Tema claro e escuro.
-
----
-
-## ▶️ Acessando o projeto
-
-https://team-divider.vercel.app/
 
 ---
 
