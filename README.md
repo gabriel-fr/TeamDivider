@@ -222,16 +222,9 @@ Em poucos segundos é possível cadastrar toda a lista, importar participantes d
 ## 📈 Melhorias futuras
 
 - Compartilhamento dos times por WhatsApp.
-- Exportação em PDF e imagem.
-- Histórico de sorteios.
 - Estatísticas por jogador.
-- Ranking de jogadores.
-- Definição de capitães.
 - Restrição de jogadores que desejam atuar juntos ou separados.
-- Configuração do peso de cada nível.
 - Persistência dos jogadores em banco de dados.
-- Login de usuários.
-- Responsividade aprimorada para dispositivos móveis.
 - Tema claro e escuro.
 
 ---
