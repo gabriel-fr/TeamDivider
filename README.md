@@ -14,6 +14,9 @@ https://team-divider.vercel.app/
 
 <img width="1287" height="573" alt="image" src="https://github.com/user-attachments/assets/b4a52a15-1137-4129-9045-239574f73fba" />
 
+<img width="395" height="843" alt="image" src="https://github.com/user-attachments/assets/c306f44f-4eb2-460b-9d47-6f084f336bcb" />
+
+
 
 ---
 
