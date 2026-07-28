@@ -12,10 +12,7 @@ O objetivo é tornar o sorteio mais justo, evitando que um time concentre apenas
 
 https://team-divider.vercel.app/
 
-<img width="1287" height="573" alt="image" src="https://github.com/user-attachments/assets/b4a52a15-1137-4129-9045-239574f73fba" />
-
-<img width="395" height="843" alt="image" src="https://github.com/user-attachments/assets/c306f44f-4eb2-460b-9d47-6f084f336bcb" />
-
+<img width="1080" height="1350" alt="Beige Minimalist Mockup Instagram Post" src="https://github.com/user-attachments/assets/ea417ba5-6d8e-4f04-8755-28d1f5380713" />
 
 
 ---
