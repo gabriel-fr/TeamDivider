@@ -1,4 +1,5 @@
-# ⚽ Monta os Times
+# ⚽ TeamDivider - Separador de Times
+
 
 Aplicação web desenvolvida em **React** e **Next.js** para realizar a divisão automática de jogadores em equipes equilibradas de futebol, considerando o nível de habilidade de cada participante e a distribuição de goleiros.
 
